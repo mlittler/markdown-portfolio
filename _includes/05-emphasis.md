@@ -1,8 +1,8 @@
 # Skills
 
-Below is a list of my skills:
+_Below is a list of my *skills*:_
 
-## Programming Languages
+## *Programming Languages*
 - Ruby
 - Python
 - Go
